@@ -1,0 +1,2 @@
+pyuic6 -x Form_Cad_Usuario.ui -o Form_Cad_Usuario.py
+pyuic6 -x Form_Edit_Usuario.ui -o Form_Edit_Usuario.py

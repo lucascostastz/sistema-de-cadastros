@@ -1,0 +1,14 @@
+pyuic6 -x Cadastro_Pacientes.ui -o Tela_Cadastro_Pacientes.py
+pyuic6 -x Editar_Pacientes.ui -o Tela_Editar_Pacientes.py
+pyuic6 -x Cadastro_Servico.ui -o Tela_Cadastro_Servico.py
+pyuic6 -x Editar_servico.ui -o Tela_Editar_Servico.py
+pyuic6 -x Cadastro_Usuario.ui -o Tela_Cadastro_Usuario.py
+pyuic6 -x Editar_Usuario.ui -o Tela_Editar_Usuario.py
+pyuic6 -x Inicio.ui -o Tela_Inicio.py
+pyuic6 -x Inicio_2.ui -o Tela_Inicio_2.py
+pyuic6 -x Login.ui -o Tela_Login.py
+pyuic6 -x Config_banco.ui -o Tela_Config_Banco.py
+pyuic6 -x Cadastro_Servico_Social.ui -o Tela_Cadastro_Servico_Social.py
+pyuic6 -x Editar_Servico_Social.ui -o Tela_Editar_Servico_Social.py
+pyuic6 -x Tela_Cria_Banco.ui -o Tela_Cria_Banco.py
+auto-py-to-exe

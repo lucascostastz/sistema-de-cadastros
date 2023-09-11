@@ -1,0 +1,10 @@
+pyuic6 -x Form_Inicio.ui -o Form_Inicio.py
+pyuic6 -x Form_Login.ui -o Form_Login.py
+pyuic6 -x Form_Cria_Banco.ui -o Form_Cria_Banco.py
+pyuic6 -x Form_Cad_Clientes.ui -o Form_Cad_Clientes.py
+pyuic6 -x Form_Cad_Produto.ui -o Form_Cad_Produto.py
+pyuic6 -x Form_Cad_Usuario.ui -o Form_Cad_Usuario.py
+pyuic6 -x Form_Edit_Usuario.ui -o Form_Edit_Usuario.py
+
+
+

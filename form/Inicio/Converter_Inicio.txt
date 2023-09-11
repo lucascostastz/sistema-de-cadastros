@@ -1,0 +1,1 @@
+pyuic6 -x Form_Inicio.ui -o Form_Inicio.py

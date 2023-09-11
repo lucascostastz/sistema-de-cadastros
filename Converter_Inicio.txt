@@ -1,0 +1,3 @@
+pyuic6 -x Form_Editar_Agendamento.ui -o Form_Editar_Agendamento.py
+pyuic6 -x Form_Inicio.ui -o Form_Inicio.py
+
